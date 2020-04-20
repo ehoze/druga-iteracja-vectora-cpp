@@ -1,0 +1,41 @@
+[
+ {
+"numer" : "12"
+ }
+
+ {
+"imie" : "Jakub"
+ }
+
+ {
+"nazwisko" : "Podolski"
+ }
+
+ {
+"pesel" : "617px0"
+ }
+
+ {
+"adres" : "Opole"
+ }
+][
+ {
+"numer" : "17"
+ }
+
+ {
+"imie" : "Patryk"
+ }
+
+ {
+"nazwisko" : "Skowronski"
+ }
+
+ {
+"pesel" : "1475ep"
+ }
+
+ {
+"adres" : "Ponora"
+ }
+]
